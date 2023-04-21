@@ -1,12 +1,12 @@
 import HeaderComponent from './components/headerComponent/HeaderComponent';
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 // import TopComponent from './components/topComponent/TopComponent';
 import Aboutus from './components/Aboutuspage/Aboutus';
 import Education from './components/EducationPage/Education';
 import Profession from './components/Professionpage/Profession';
-import Services from './components/Servicecomponent/Services';
-import { Routes, Route, BrowserRouter } from 'react-router-dom';
+// import Services from './components/Servicecomponent/Services';
+import { Routes, Route } from 'react-router-dom';
 
 function App() {
   return (

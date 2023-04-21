@@ -16,17 +16,17 @@ const Footer = () => {
                   <div class="contact-social">
                     <ul>
                       <li>
-                        <a class="hover-target" href="">
+                        <a class="hover-target">
                           <FacebookIcon />
                         </a>
                       </li>
                       <li>
-                        <a class="hover-target" href="">
+                        <a class="hover-target">
                           <LinkedInIcon />
                         </a>
                       </li>
                       <li>
-                        <a class="hover-target" href="">
+                        <a class="hover-target">
                           <YouTubeIcon />
                         </a>
                       </li>

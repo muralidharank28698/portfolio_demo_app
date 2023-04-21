@@ -136,23 +136,3 @@ const Services = () => {
 };
 
 export default Services;
-{
-  /* <Box
-  sx={{
-    display: 'flex',
-    justifyContent: 'space-evenly',
-    flexWrap: 'wrap',
-    padding: '10px',
-    '& > :not(style)': {
-      m: 1,
-      width: 628,
-      height: 228,
-    },
-  }}
->
-  <Paper elevation={0} style={{ margin: '30px' }} />
-  <Paper elevation={0} style={{ margin: '30px' }} />
-  <Paper elevation={0} style={{ margin: '30px' }} />
-  <Paper elevation={0} style={{ margin: '30px' }} />
-</Box>; */
-}
