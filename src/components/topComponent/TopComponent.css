@@ -1,0 +1,8 @@
+.topContent{
+    background: url(../../assets/topContentImage.jpg);
+    height: 80vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+}

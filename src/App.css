@@ -1,0 +1,94 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(16, 16, 17, 1) 0%,
+    rgba(113, 113, 134, 1) 0%,
+    rgba(192, 192, 241, 1) 0%,
+    rgba(126, 129, 140, 1) 0%,
+    rgba(152, 171, 209, 1) 0%,
+    rgba(92, 98, 116, 1) 0%,
+    rgba(134, 136, 230, 1) 0%,
+    rgba(198, 210, 213, 1) 0%,
+    rgba(214, 213, 219, 1) 0%,
+    rgba(55, 55, 177, 1) 0%,
+    rgba(152, 194, 227, 1) 0%,
+    rgba(210, 210, 215, 1) 0%,
+    rgba(228, 237, 230, 1) 0%,
+    rgba(14, 34, 74, 1) 0%,
+    rgba(229, 228, 236, 1) 0%,
+    rgba(237, 238, 242, 1) 0%,
+    rgba(231, 231, 238, 1) 0%,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(19, 19, 19, 1) 0%,
+    rgba(22, 22, 24, 1) 0%,
+    rgba(1, 1, 1, 1) 0%,
+    rgba(5, 5, 9, 1) 0%,
+    rgba(0, 0, 0, 1) 55%,
+    rgba(20, 20, 20, 1) 79%,
+    rgba(31, 30, 30, 1) 100%,
+    rgba(11, 11, 20, 1) 100%,
+    rgba(33, 31, 31, 1) 100%,
+    rgba(41, 37, 37, 1) 100%,
+    rgba(254, 254, 254, 1) 100%,
+    rgba(243, 244, 247, 1) 100%,
+    rgba(241, 242, 245, 1) 100%,
+    rgba(247, 247, 247, 1) 100%,
+    rgba(240, 245, 243, 1) 100%,
+    rgba(168, 200, 210, 1) 100%,
+    rgba(185, 223, 210, 1) 100%,
+    rgba(202, 202, 213, 1) 100%,
+    rgba(29, 87, 152, 1) 100%,
+    rgba(202, 199, 229, 1) 100%,
+    rgba(61, 57, 107, 1) 100%,
+    rgba(202, 202, 213, 0.9472163865546218) 100%,
+    rgba(51, 51, 56, 0.9752275910364145) 100%,
+    rgba(41, 40, 52, 1) 100%,
+    rgba(31, 32, 32, 1) 100%
+  );
+}
