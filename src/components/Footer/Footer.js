@@ -1,7 +1,7 @@
 import React from 'react';
-import FacebookIcon from '@mui/icons-material/Facebook';
-import LinkedInIcon from '@mui/icons-material/LinkedIn';
-import YouTubeIcon from '@mui/icons-material/YouTube';
+// import FacebookIcon from '@mui/icons-material/Facebook';
+// import LinkedInIcon from '@mui/icons-material/LinkedIn';
+// import YouTubeIcon from '@mui/icons-material/YouTube';
 import './Footer.css';
 
 const Footer = () => {
@@ -16,19 +16,19 @@ const Footer = () => {
                   <div class="contact-social">
                     <ul>
                       <li>
-                        <a class="hover-target">
+                        {/* <a class="hover-target">
                           <FacebookIcon />
-                        </a>
+                        </a> */}
                       </li>
                       <li>
-                        <a class="hover-target">
+                        {/* <a class="hover-target">
                           <LinkedInIcon />
-                        </a>
+                        </a> */}
                       </li>
                       <li>
-                        <a class="hover-target">
+                        {/* <a class="hover-target">
                           <YouTubeIcon />
-                        </a>
+                        </a> */}
                       </li>
                     </ul>
                   </div>
