@@ -7,7 +7,7 @@ function AboutComponent() {
       {/* <div className='aboutMeInnerContent'> */}
       <div className="leftCon">
         <div className="profile">
-          <img src={require('../../assets/profile.jpg')}></img>
+          <img src={require('../../assets/profile.jpg')} alt="profile"></img>
         </div>
       </div>
       <div className="rightCon">
